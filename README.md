@@ -7,5 +7,5 @@ Sistemas CRUD con Java Persistence Api (JPA) y SQL, aplicaciones web con Java Se
 Modelado de bases de datos relacionales
 ![Html](https://img.shields.io/badge/HTML5-3DDC84?style=for-the-badge&logo=HTML5-studio&logoColor=white&labelColor=101010)</br>
 ![Css](https://img.shields.io/badge/CSS3-3DDC84?style=for-the-badge&logo=css3-studio&logoColor=white&labelColor=101010)</br>
-Conocimientos básicos sobre front-end para la realización de diversas páginas.
+  Conocimientos básicos sobre front-end para la realización de diversas páginas.
 
